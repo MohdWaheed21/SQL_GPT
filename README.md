@@ -80,7 +80,7 @@ SELECT * FROM logins WHERE status = 'failed' AND attempt_count > 3 AND login_dat
 ## 👥 Collaborators
 
 - Vighneshwar Kuru (https://github.com/vighneshwarkuru)  
-- Mohd Waheed (https://github.com/mohhdwaheed21)
+- Mohd Waheed (https://github.com/mohdwaheed21)
 
 ---
 
